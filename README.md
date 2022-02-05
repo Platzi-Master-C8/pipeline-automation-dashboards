@@ -36,6 +36,6 @@ You need to create a project folder to save the following files:
 ### 2.2 Jupyter Notebook (Google Colab)
 
 
-## 2. Send cleaned data into the Google sheets
+Send cleaned data into the Google sheets
 
 ## 3. Import data into de Google Data Studio
