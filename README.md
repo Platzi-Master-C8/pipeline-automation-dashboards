@@ -35,8 +35,8 @@ You need to create a project folder to save the following files:
 
 ### 2.2 Jupyter Notebook (Google Colab)
 
-* [Notebook for get data from Postgres](Notebooks/postgres_data.ipynb)
-* [Notebook for get data from Mongodb](Notebooks/mongodb_data.ipynb)
+* Notebook to get data [from Postgres](Notebooks/postgres_data.ipynb)
+* Notebook to get data [from Mongodb](Notebooks/mongodb_data.ipynb)
 
 Send cleaned data into the Google sheets
 
