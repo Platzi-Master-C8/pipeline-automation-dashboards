@@ -12,12 +12,12 @@ You need to create a project folder to save the following files:
 * Json key from project Google Cloud project.
 * Spreadsheet with data to ingest the dashboard.
 
-![general_pipeline](assets/pipeline.drawio.svg)
+![drive_folder](assets/drive_folder.png)
 
 ## 1. Get data from databases into the Jupyter Notebook
 
 1.1 Create a project in Google Cloud Platform in order to connect the spreadsheets:
-![drive_folder](assets/drive_folder.png)
+![new_project](assets/new_project.png)
 
 1.2 Enable the APIs in the Google Cloud project. [Enable the APIs you want to use](https://developers.google.com/workspace/guides/enable-apis), for this project:  
 * Google Sheets API 
