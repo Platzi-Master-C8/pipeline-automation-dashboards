@@ -2,7 +2,7 @@
 
 This is how was created the pipeline for get data to create the Automation dashboards
 
-![general_pipeline](assets/pipeline.drawio.svg)
+![general_pipeline](assets/pipeline.png)
 
 
 ## 1. Create a project in Google Drive
