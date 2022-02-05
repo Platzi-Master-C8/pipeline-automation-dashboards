@@ -10,7 +10,7 @@ This is how was created the pipeline for get data to create the Automation dashb
 You need to create a project folder to save the following files:
 * Colab Notebook
 * Json key from project Google Cloud project.
-* Spreadsheet with data to ingest the dashboard.
+* *Google Sheet* with data to ingest the dashboard.
 
 ![drive_folder](assets/drive_folder.png)
 
@@ -25,13 +25,13 @@ You need to create a project folder to save the following files:
 * Google Sheets API 
 * Google Drive API
 
-2.1.3 Create access credentials: Service account.
+2.1.3 Create access credentials: Service account type.
 * Create key json type.
 * Save into a drive folder.
 ![credentials](assets/credentials.png)
 
-1.4 Create spreadsheet in the drive folder and share with email
-
+2.1.4 Create a *Google Sheet* in the drive project folder and share with the *service account email*.
+![email](assets/email.png)
 
 ## 2. Send cleaned data into the Google sheets
 
