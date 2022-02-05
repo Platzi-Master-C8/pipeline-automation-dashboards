@@ -38,6 +38,6 @@ You need to create a project folder to save the following files:
 * Notebook to get data [from Postgres](Notebooks/postgres_data.ipynb)
 * Notebook to get data [from Mongodb](Notebooks/mongodb_data.ipynb)
 
-Send cleaned data into the Google sheets
-
 ## 3. Import data into de Google Data Studio
+
+![data](assets/data.png)
