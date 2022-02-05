@@ -14,9 +14,9 @@ You need to create a project folder to save the following files:
 
 ![drive_folder](assets/drive_folder.png)
 
-## 2. Get data from databases
+## 2. Get data from Postgres and Mongodb
 
-### 2.1 Google Clud Platform
+## 2.1 Google Cloud Platform
 
 2.1.1 Create a project in Google Cloud Platform in order to connect the spreadsheets:
 ![new_project](assets/new_project.png)
@@ -35,6 +35,7 @@ You need to create a project folder to save the following files:
 
 ### 2.2 Jupyter Notebook (Google Colab)
 
+[notebook](Notebooks/postgres_data.ipynb)
 
 Send cleaned data into the Google sheets
 
