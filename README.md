@@ -25,11 +25,10 @@ You need to create a project folder to save the following files:
 * Google Sheets API 
 * Google Drive API
 
-2.1.3 Create access credentials: Service account
-    * Create key json type.
-    * Save into a drive folder.
-
-    ![credentials](assets/credentials.png)
+2.1.3 Create access credentials: Service account.
+* Create key json type.
+* Save into a drive folder.
+![credentials](assets/credentials.png)
 
 1.4 Create spreadsheet in the drive folder and share with email
 
