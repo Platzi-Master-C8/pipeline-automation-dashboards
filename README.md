@@ -10,10 +10,8 @@ This is how was created the pipeline for get data to create the Automation dashb
 ![new_project](assets/new_project.png)
 
 1.2 Enable the APIs in the Google Cloud project. [Enable the APIs you want to use](https://developers.google.com/workspace/guides/enable-apis), for this project:  
-
-    1. **Google Sheets API**
-  
-    2. **Google Drive API**
+* **Google Sheets API** 
+* **Google Drive API**
 
 1.3 Create access credentials: Service account
     1. Create key json type
